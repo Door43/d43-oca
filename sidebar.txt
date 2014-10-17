@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oca:home|Door43 (oca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oca|d43-oca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oca/archive/master.zip|d43-oca.zip]]
+
+**Recent Changes**
+{{changes>ns = oca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oca|Ethnologue data]]
+
